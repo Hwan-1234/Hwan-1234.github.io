@@ -1,0 +1,25 @@
+{
+  "name": "hwan-1234.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hwan-1234/Hwan-1234.github.io.git"
+  },
+  "keywords": [],
+  "author": "Hwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hwan-1234/Hwan-1234.github.io/issues"
+  },
+  "homepage": "https://github.com/Hwan-1234/Hwan-1234.github.io#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "bcrypt": "^5.0.1",
+    "express": "^4.18.1"
+  }
+}
