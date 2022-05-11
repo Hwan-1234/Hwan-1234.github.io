@@ -2,6 +2,7 @@
   "name": "hwan-1234.github.io",
   "version": "1.0.0",
   "description": "",
+	"type" : "module",
   "main": "_src/server.js",
   "scripts": {
     "dev": "nodemon -- exec babel-node _src/server.js"
@@ -20,6 +21,7 @@
   "dependencies": {
     "babel": "^6.23.0",
     "bcrypt": "^5.0.1",
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
   }
 }
