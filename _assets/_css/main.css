@@ -1,0 +1,10 @@
+body{font-family:'Malgun Gothic';font-size:10pt;}
+header > h1 {	display: inline-block; margin-left: 5%;}
+header > nav { display: inline-block; float: right; margin-right: 5%;}
+header > nav > ul li{list-style-type: none; float:left;margin-left: 20px;}
+header{border-bottom: 1px solid black;width: 80%;position: relative;margin: 0 auto;}
+section{margin-top: 5%;margin-bottom: 5%;width: 80%;position: relative;margin: 0 auto; min-height: 100%;}
+footer{background-color: #e9f6f9; color:rgb(160, 167, 202);position: fixed;margin: 0 auto;width: 100%; padding: 36px 0 46px 0; bottom: 0}
+footer > address{margin: 0 auto;width: 80%;}
+footer > address > a{margin:5px;}
+.fimg{width: 20px;height: 20px;object-fit: cover;}
