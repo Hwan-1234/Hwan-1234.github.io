@@ -4,6 +4,7 @@ const port = 3000;
 
 
 app.get('/', (req, res) => {
+	console.log('start');
   return res.send('준비중~');
 })
 app.listen(port, () => {

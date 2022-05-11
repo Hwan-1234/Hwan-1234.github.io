@@ -4,7 +4,7 @@
   "description": "",
   "main": "_src/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon -- exec babel-node _src/server.js"
   },
   "repository": {
     "type": "git",
